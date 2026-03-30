@@ -2,7 +2,7 @@
 Branch: Mtech Integrated AI
 Year: 1st yerar
 College: VIT Bhopal University
-"I'm eager to mastyer the art of algoritms and life of tech
+"I'm eager to master the art of algoritms and life of tech
 
 <!--
 **yashvi-collab/yashvi-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
