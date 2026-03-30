@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi There! I'm Yashvi Ghaatiya
+Branch: Mtech Integrated AI
+Year: 1st yerar
+College: VIT Bhopal University
+"I'm eager to mastyer the art of algoritms and life of tech
 
 <!--
 **yashvi-collab/yashvi-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
